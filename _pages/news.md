@@ -6,7 +6,7 @@ classes: "wide"
 author_profile: true
 ---
 
-**12/2023** | Prior INMA ideas blog on the NYT paywall featured as one of their [top 3 AI stories of 2023](https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-s-top-11-stories-from-2023-focus-on-subscriber-strategies-and-ai)
+**12/2023** | Prior INMA ideas blog on ML for the NYT paywall was featured as one of their [top 3 AI stories of 2023](https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-s-top-11-stories-from-2023-focus-on-subscriber-strategies-and-ai)
 **11/2023** | Published an [INMA ideas blog](https://www.inma.org/blogs/ideas/post.cfm/new-york-times-uses-machine-learning-to-create-a-smarter-paywall) (featured on the INMA homepage for a day)
 **06/2023** | [Coverage](https://www.inma.org/blogs/smart-data-initiative/post.cfm/3-themes-emerge-as-media-leaders-share-their-data-journey) of my talk at the INMA Smart Data workshop was published
 **05/2023** | NYT smart paywall project awarded second prize in the "Best Initiative to Acquire Subscribers" category at the [INMA Global Media Awards](https://www.inma.org/blogs/main/post.cfm/inma-reveals-40-global-media-awards-first-place-winners-bergens-tidende-takes-top-prize)

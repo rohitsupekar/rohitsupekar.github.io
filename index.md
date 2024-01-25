@@ -11,3 +11,10 @@ At the Times, I have applied causal inference to observational data using statis
 I obtained a Ph.D. from Massachusetts Institute of Technology (MIT) in 2021, advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/). My [thesis](https://rohitsupekar.github.io/assets/phd_thesis.pdf) combined ideas from scientific machine learning, mathematical modeling of active matter, and numerical computation. I built a computational inference framework to learn continuum models from microscopic data to predict collective phenomena in systems such as bacterial suspensions or self-propelled colloidal particles. I was a recipient of the [Mathworks Engineering Fellowship](https://engineering.mit.edu/2021-mathworks-fellows/page/2/). I also received a Master's degree from MIT for my work on theoretical and experimental modeling of [oceanic internal waves](https://rohitsupekar.github.io/assets/sm_thesis.pdf). During my time at MIT, I enjoyed teaching and was a teaching assistant for [Advanced Fluid Mechanics](https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/) (1 semester) and [Dynamics and Controls](https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-spring-2007/.) (4 semesters).
 
 In 2015, I completed my B.Tech in Mechanical Engineering at IIT Madras, India. I worked with [Mahesh Panchagnula](https://home.iitm.ac.in/mvp/) on [theoretical fluid dynamics research](https://arxiv.org/abs/1408.6654) and spent a year building an omni-directional robot for the [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon) competition to [solve pick-and-place tasks](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving the robot!).
+
+### Tools
+Python      | <a> <img src="https://skillicons.dev/icons?i=python" /> </a>
+Go          | <a> <img src="https://skillicons.dev/icons?i=go" /> </a>
+Git         | <a> <img src="https://skillicons.dev/icons?i=git" /> </a>
+Tensorflow  | <a> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>
+Pytorch     | <a> <img src="https://skillicons.dev/icons?i=pytorch" /> </a>

@@ -15,7 +15,7 @@ Below is a list of my peer-reviewed publications and preprints. These manuscript
 
 **Fluid Dynamics**
 
-3. S. Boury, R. Supekar, E. C. Fine, R. Musgrave, J. B. Mickett, G. Voet, P. Odier, T. Peacock, J. A. MacKinnon, \& M. H. Alford, Observations of Double Diffusive Staircase Edges in the Arctic Ocean, J. Geophys. Res.: Oceans, 127, e2022JC018906 (2022) [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JC018906)
+3. S. Boury, R. Supekar, E. C. Fine, R. Musgrave, J. B. Mickett, G. Voet, P. Odier, T. Peacock, J. A. MacKinnon, M. H. Alford, Observations of Double Diffusive Staircase Edges in the Arctic Ocean, J. Geophys. Res.: Oceans, 127, e2022JC018906 (2022) [link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022JC018906)
 4. R. Supekar, V. Heinonen, K.  Burns, J. Dunkel, Linearly forced fluid flow on a rotating sphere, J. Fluid Mech., 892 (A30), 2020 [link](https://doi.org/10.1017/jfm.2020.205)
 5. R. Supekar, D. Hewitt, N. Balmforth, Translating and squirming cylinders in a viscoplastic fluid, J. Fluid Mech., 882 (A11), 2020 (featured as the *cover article*) [link](https://doi.org/10.1017/jfm.2019.812)
 6. R. Supekar, T. Peacock, Interference and transmission of locally forced internal waves, J. Fluid Mech., 866 (350-368), 2019 [link](https://doi.org/10.1017/jfm.2019.106)

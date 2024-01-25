@@ -45,9 +45,9 @@ Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra,
 ![](https://img.shields.io/badge/-PySpark-informational?style=flat&logo=pyspark&logoColor=FF6F00&color=fff8dc)
 
 #### ML Deployment
-![](https://img.shields.io/badge/-Triton-informational?style=flat&logo=nvidia&logoColor=4285F4&color=f5d5d8)
-![](https://img.shields.io/badge/-TFServing-informational?style=flat&logo=tensorflow&logoColor=4285F4&color=f5d5d8)
-![](https://img.shields.io/badge/-google_cloud-informational?style=flat&logo=googlecloud&logoColor=4285F4&color=f5d5d8)
+![](https://img.shields.io/badge/-NVidia_Triton-informational?style=flat&logo=nvidia&logoColor=4285F4&color=f5d5d8)
+![](https://img.shields.io/badge/-TF_Serving-informational?style=flat&logo=tensorflow&logoColor=4285F4&color=f5d5d8)
+![](https://img.shields.io/badge/-Google_Cloud-informational?style=flat&logo=googlecloud&logoColor=4285F4&color=f5d5d8)
 ![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=2496ED&color=f5d5d8)
 ![](https://img.shields.io/badge/-kubernetes-informational?style=flat&logo=kubernetes&logoColor=326CE5&color=f5d5d8)
 ![](https://img.shields.io/badge/-drone_CI-informational?style=flat&logo=drone&logoColor=212121&color=f5d5d8)

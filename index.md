@@ -16,11 +16,21 @@ I obtained a Ph.D. from Massachusetts Institute of Technology (MIT) in 2021, adv
 
 In 2015, I completed my B.Tech in Mechanical Engineering at IIT Madras, India. I worked with [Mahesh Panchagnula](https://home.iitm.ac.in/mvp/) on [theoretical fluid dynamics research](https://arxiv.org/abs/1408.6654) and spent a year building an omni-directional mobile robot for the [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon) competition to [solve pick-and-place tasks](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving the robot!).
 
-Outside of work, I enjoy long-distance running in the summer and skiing in a the winter.
+Outside of work, I enjoy long-distance running in the summer and skiing in the winter.
 
-### Skills and Technologies
+## Skills
 
-#### Programming
+### Machine Learning
+
+Supervised and unsupervised machine learning, Contextual bandits, Bayesian methods (Thompson Sampling), Causal Inference, Causal Machine Learning
+
+### Mathematical Modeling
+
+Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra, Numerical Methods for PDEs
+
+## Technologies
+
+### Programming
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=e0eeee)
 ![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=3776AB&color=e0eeee)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=black&color=e0eeee)

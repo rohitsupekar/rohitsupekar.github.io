@@ -6,7 +6,7 @@ classes: "wide"
 author_profile: true
 ---
 
-Below is a list of my peer-reviewed publications and preprints. These manuscripts span diverse areas of scientific machine learning and experimental, theoretical, and computation fluid dynamics.
+Below is a list of my peer-reviewed publications and preprints. These manuscripts span diverse areas of scientific machine learning and experimental, theoretical, and computational fluid dynamics.
 
 **Scientific Machine Learning**
 

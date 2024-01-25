@@ -20,22 +20,22 @@ Outside of work, I enjoy long-distance running in the summer and skiing in the w
 
 ## Skills
 
-**Machine Learning**
+#### Machine Learning
 Supervised and unsupervised machine learning, Contextual bandits, Bayesian methods (Thompson Sampling), Causal Inference, Causal Machine Learning
 
-**Mathematical Modeling**
+#### Mathematical Modeling
 Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra, Numerical Methods for PDEs
 
 ## Technologies
 
-**Programming**
+#### Programming
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=e0eeee)
 ![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=3776AB&color=e0eeee)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=black&color=e0eeee)
 ![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=5C2D91&color=e0eeee)
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=googlebigquery&logoColor=669DF6&color=e0eeee)
 
-**Machine Learning**
+#### Machine Learning
 ![](https://img.shields.io/badge/-pytorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=fff8dc)
 ![](https://img.shields.io/badge/-tensorflow-informational?style=flat&logo=tensorflow&logoColor=FF6F00&color=fff8dc)
 ![](https://img.shields.io/badge/-numpy-informational?style=flat&logo=numpy&logoColor=013243&color=fff8dc)
@@ -44,7 +44,7 @@ Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra,
 ![](https://img.shields.io/badge/-scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=fff8dc)
 ![](https://img.shields.io/badge/-PySpark-informational?style=flat&logo=pyspark&logoColor=FF6F00&color=fff8dc)
 
-**ML Deployment**
+#### ML Deployment
 ![](https://img.shields.io/badge/-Triton-informational?style=flat&logo=nvidia&logoColor=4285F4&color=f5d5d8)
 ![](https://img.shields.io/badge/-TFServing-informational?style=flat&logo=tensorflow&logoColor=4285F4&color=f5d5d8)
 ![](https://img.shields.io/badge/-google_cloud-informational?style=flat&logo=googlecloud&logoColor=4285F4&color=f5d5d8)

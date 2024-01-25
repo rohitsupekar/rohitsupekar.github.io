@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Rohit Supekar"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "[Full-Stack] Senior Data Scientist at NYTimes; Ph.D., Massachusetts Institute of Technology"
+  bio              : "Full-Stack Senior Data Scientist at NYTimes\n\nPh.D., Massachusetts Institute of Technology"
   location         : "Boston, MA"
   email            :
   links:

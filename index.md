@@ -12,9 +12,28 @@ I obtained a Ph.D. from Massachusetts Institute of Technology (MIT) in 2021, adv
 
 In 2015, I completed my B.Tech in Mechanical Engineering at IIT Madras, India. I worked with [Mahesh Panchagnula](https://home.iitm.ac.in/mvp/) on [theoretical fluid dynamics research](https://arxiv.org/abs/1408.6654) and spent a year building an omni-directional robot for the [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon) competition to [solve pick-and-place tasks](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving the robot!).
 
-### Tools
-Python      | <a> <img src="https://skillicons.dev/icons?i=python" /> </a>
-Go          | <a> <img src="https://skillicons.dev/icons?i=go" /> </a>
-Git         | <a> <img src="https://skillicons.dev/icons?i=git" /> </a>
-Tensorflow  | <a> <img src="https://skillicons.dev/icons?i=tensorflow" /> </a>
-Pytorch     | <a> <img src="https://skillicons.dev/icons?i=pytorch" /> </a>
+### Skills and Technologies
+
+#### Programming
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=3776AB&color=E6E6FA)
+![](https://img.shields.io/badge/-Go-informational?style=flat&logo=go&logoColor=3776AB&color=E6E6FA)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=black&color=E6E6FA)
+![](https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=5C2D91&color=E6E6FA)
+
+#### Machine Learning
+![](https://img.shields.io/badge/-pytorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=DCDCDC)
+![](https://img.shields.io/badge/-tensorflow-informational?style=flat&logo=tensorflow&logoColor=FF6F00&color=DCDCDC)
+![](https://img.shields.io/badge/-numpy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC)
+![](https://img.shields.io/badge/-pandas-informational?style=flat&logo=pandas&logoColor=150458&color=DCDCDC)
+![](https://img.shields.io/badge/-scipy-informational?style=flat&logo=scipy&logoColor=8CAAE6&color=DCDCDC)
+![](https://img.shields.io/badge/-scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=DCDCDC)
+![](https://img.shields.io/badge/-PySpark-informational?style=flat&logo=pyspark&logoColor=FF6F00&color=DCDCDC)
+
+#### ML Deployment
+![](https://img.shields.io/badge/-Triton-informational?style=flat&logo=nvidia&logoColor=4285F4&color=E9F7EF)
+![](https://img.shields.io/badge/-TFServing-informational?style=flat&logo=tensorflow&logoColor=4285F4&color=E9F7EF)
+![](https://img.shields.io/badge/-google_cloud-informational?style=flat&logo=googlecloud&logoColor=4285F4&color=E9F7EF)
+![](https://img.shields.io/badge/-docker-informational?style=flat&logo=docker&logoColor=2496ED&color=E9F7EF)
+![](https://img.shields.io/badge/-kubernetes-informational?style=flat&logo=kubernetes&logoColor=326CE5&color=E9F7EF)
+![](https://img.shields.io/badge/-drone_CI-informational?style=flat&logo=drone&logoColor=212121&color=E9F7EF)
+![](https://img.shields.io/badge/-airflow-informational?style=flat&logo=apacheairflow&logoColor=017CEE&color=E9F7EF)

@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-I enjoy building machine learning models with mathematical rigour for engineering and business applications.
+I enjoy building machine learning models with mathematical rigor for engineering and business applications.
 
 I currently work as a Full-Stack Senior Data Scientist at The New York Times. I develop and deploy real-time machine learning (ML) models for subscription-related problems, such as serving a paywall at optimal moments or personalizing messages to drive subscriptions. 
 

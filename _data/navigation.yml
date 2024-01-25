@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /
-  - title: "In The News"
-    url: /inthenews/
-  - title: "Ph.D. Research"
-    url: /research/
+  - title: "News"
+    url: /news/
   - title: "Publications"
     url: /publications/
+  # - title: "Ph.D. Research"
+  #   url: /research/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

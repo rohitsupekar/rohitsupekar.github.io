@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-I enjoy building algorithms and machine learning (ML) models with mathematical rigor and deploying them for engineering or technological applications.
+I enjoy building and deploying algorithms and machine learning (ML) models with mathematical rigor for engineering and technological applications.
 
 Currently at The New York Times, I develop and deploy real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing messages to drive subscriptions. Models I build are often constrained and multi-objective in nature, sitting atop causal ML and reinforcement learning algorithms such as contextual bandits. 
 

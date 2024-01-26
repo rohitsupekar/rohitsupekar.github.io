@@ -21,7 +21,7 @@ Outside of work, I enjoy long-distance running in the summer and skiing in the w
 ## Skills
 
 #### Machine Learning
-Supervised and unsupervised machine learning, Contextual bandits, Bayesian methods (Thompson Sampling), Causal Inference, Causal Machine Learning
+Supervised and unsupervised machine learning, Contextual bandits, Bayesian methods (Thompson Sampling), Causal Inference, Causal Machine Learning, Neural Differential Equations, Scientific Machine Learning
 
 #### Mathematical Modeling
 Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra, Numerical Methods for PDEs

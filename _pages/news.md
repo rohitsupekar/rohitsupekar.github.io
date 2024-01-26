@@ -16,6 +16,7 @@ author_profile: true
 **02/2023** |Core part of my Ph.D. work on learning active hydrodynamic equations got published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2206994120)
 **01/2023** |Earlier VetureBeat story featured as one of the [top 13 AI stories in 2022](https://venturebeat.com/ai/my-13-favorite-ai-stories-in-2022-the-ai-beat/) (see #6)
 **11/2022** |Spoke at [PyData NYC](https://www.youtube.com/watch?v=6CmS96K6-EE) on *Causal machine learning for a smart paywall at The New York Times*
+**08/2022** |The Audiencers published [an analysis](https://theaudiencers.com/decisions/the-new-york-times-dynamic-paywall-model-analyzed/) of my blog post on the NYT paywall algorithm
 **08/2022** |Published a [technical NYT open blog](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8) about Machine Learning for the NYT paywall
 **05/2022** |Invited to speak in the Analytics Seminar Series at the MIT Sloan School of Management on *Data science and algorithmic targeting at The New York Times*
 **09/2021** |Started working as a Full-Stack Data Scientist at NYTimes

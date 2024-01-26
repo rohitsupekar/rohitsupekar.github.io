@@ -14,7 +14,7 @@ author_profile: true
 **04/2023** | Invited by [Prof. Ananya Sen](https://sites.google.com/view/ananyasen/home) to deliver a guest lecture about my NYT work in the Managing Disruptive Technologies course at Heinz College at Carnegie Mellon University (CMU)
 **03/2023** |Promoted to Senior Data Scientist at The New York Times
 **02/2023** |Core part of my Ph.D. work on learning active hydrodynamic equations got published in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2206994120)
-**01/2023** |Earlier VetureBeat story featured as one of the [top 13 AI stories in 2022](https://venturebeat.com/ai/my-13-favorite-ai-stories-in-2022-the-ai-beat/) (see #6)
+**01/2023** |Earlier [VetureBeat story](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/) featured as one of the [top 13 AI stories in 2022](https://venturebeat.com/ai/my-13-favorite-ai-stories-in-2022-the-ai-beat/) (see #6)
 **11/2022** |Spoke at [PyData NYC](https://www.youtube.com/watch?v=6CmS96K6-EE) on *Causal machine learning for a smart paywall at The New York Times*
 **08/2023** |Interviewed by Sharon Goldman for her VentureBeat article on [building ML-powered NYT paywall](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)
 **08/2022** |The Audiencers published [an analysis](https://theaudiencers.com/decisions/the-new-york-times-dynamic-paywall-model-analyzed/) of my blog post on the NYT paywall algorithm

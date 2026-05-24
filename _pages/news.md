@@ -5,7 +5,9 @@ permalink: /news/
 classes: "wide"
 author_profile: true
 ---
-**06/2025** | (Upcoming) [Keynote talk](https://machinelearningweek.com/session/keynote-optimizing-the-new-york-times-subscription-funnel-using-real-time-causal-machine-learning-2/) on "Optimizing The New York Times subscription funnel using real-time causal machine learning" at Machine Learning Week conference in June 2025 (Phoenix, Arizona)
+**03/2026** | Promoted to *Director of Machine Learning* at The New York Times: leading a team of 3 senior ML scientists developing and deploying machine learning solutions for access and messaging systems
+**10/2025** | Published an [NYT Open blog](https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4) on "Scaling Subscriptions at The New York Times with Real-Time Causal Machine Learning"
+**06/2025** | [Keynote talk](https://machinelearningweek.com/session/keynote-optimizing-the-new-york-times-subscription-funnel-using-real-time-causal-machine-learning-2/) on "Optimizing The New York Times subscription funnel using real-time causal machine learning" at Machine Learning Week conference in June 2025 (Phoenix, Arizona)
 **12/2024** | Promoted to *Lead Data Scientist* position at The New York Times: technical and strategic leadership on machine learning solutions for access and messaging systems
 **03/2024** | Invited by [Prof. Ananya Sen](https://sites.google.com/view/ananyasen/home) at Heinz College, CMU to give guest lectures in his courses on A/B testing and Managing Disruptive Technologies
 **12/2023** | INMA ideas blog on ML for the NYT paywall was featured as one of the [top 3 stories of 2023 out of 841 blogs](https://www.inma.org/blogs/Editors-Inbox/post.cfm/inma-s-top-11-stories-from-2023-focus-on-subscriber-strategies-and-ai)

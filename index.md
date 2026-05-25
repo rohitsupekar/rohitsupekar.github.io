@@ -6,7 +6,7 @@ author_profile: true
 
 I enjoy building and deploying algorithms and ML models with mathematical rigor for scientific, engineering, and technological applications.
 
-Currently at The New York Times, I develop and deploy real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing messages to drive subscriptions. Models I build are often constrained and multi-objective in nature, sitting atop causal ML and reinforcement learning algorithms such as contextual bandits. 
+Currently at The New York Times, I lead a team of ML scientists developing and deploying real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing messages to drive subscriptions. Previously as an individual contributor, I developed and deployed models in this space — often constrained and multi-objective in nature, sitting atop causal ML and reinforcement learning algorithms such as contextual bandits. 
 
 I write statically-typed production code in [Python](https://typing.readthedocs.io/en/latest/) and [Go](https://go.dev) to support cloud-based containerized applications for high throughput inference. I have also built production-scale batch models that determined user-level access to Times content (see [this blog post](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8), [this PyData talk](https://www.youtube.com/watch?v=6CmS96K6-EE), or this [media article by VentureBeat](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)). See my [CV](https://rohitsupekar.github.io/assets/cv_rohit_supekar.pdf) for more details.
 

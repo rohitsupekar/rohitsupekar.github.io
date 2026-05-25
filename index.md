@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-I enjoy developing and deploying ML models with mathematical rigor for technological and scientific applications.
+ML leader with experience building **production ML systems** and **academic research** in applied mathematics and scientific machine learning. I enjoy developing and deploying models with mathematical rigor for technological and scientific applications.
 
 ## Leadership
 
@@ -19,9 +19,9 @@ At the Times, I have also applied **causal inference** to observational data usi
 ## Research (PhD & Masters, MIT)
 
 My [Ph.D. thesis](https://rohitsupekar.github.io/assets/phd_thesis_rohit_supekar.pdf) advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/) (**Applied Mathematics**), combined **scientific ML, numerical computation, and fluid dynamics**. I built a computational inference framework to **learn Partial Differential Equations (PDEs) from microscopic data** of active matter (see [PNAS article](https://www.pnas.org/doi/10.1073/pnas.2206994120)). I also contributed to early demonstrations of **Neural Differential Equations** in learning physical phenomena (see [preprint](https://arxiv.org/abs/2001.04385)).
-I was a recipient of the [**Mathworks Engineering Fellowship**](https://engineering.mit.edu/2021-mathworks-fellows/page/2/).
+I was a recipient of the [Mathworks Engineering Fellowship](https://engineering.mit.edu/2021-mathworks-fellows/page/2/).
 
-I also received a Master's degree from MIT for my work on theoretical and experimental modeling of [**the fluid dynamics of internal waves**](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf). My B.Tech in Mechanical Engineering at **IIT Madras** involved [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654) research and building an omni-directional robot for [ABU Robocon](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving!).
+I also received a Master's degree from MIT for my work on theoretical and experimental modeling of [the fluid dynamics of internal waves](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf). My B.Tech in Mechanical Engineering at **IIT Madras** involved [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654) research and building an omni-directional robot for [ABU Robocon](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving!).
 
 Outside of work, I enjoy long-distance running in the summer and skiing in the winter.
 

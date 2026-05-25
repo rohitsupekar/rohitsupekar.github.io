@@ -4,19 +4,28 @@ classes: wide
 author_profile: true
 ---
 
-I enjoy building and deploying algorithms and ML models with mathematical rigor for scientific, engineering, and technological applications.
+I enjoy developing and deploying ML models with mathematical rigor for technological and scientific applications.
 
-Currently at The New York Times, I lead a team of ML scientists developing and deploying real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing messages to drive subscriptions. Previously as an individual contributor, I developed and deployed models in this space — often constrained and multi-objective in nature, sitting atop causal ML and reinforcement learning algorithms such as contextual bandits. 
+## Leadership
 
-I write statically-typed production code in [Python](https://typing.readthedocs.io/en/latest/) and [Go](https://go.dev) to support cloud-based containerized applications for high throughput inference. I have also built production-scale batch models that determined user-level access to Times content (see [this blog post](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8), [this PyData talk](https://www.youtube.com/watch?v=6CmS96K6-EE), or this [media article by VentureBeat](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)). See my [CV](https://rohitsupekar.github.io/assets/cv_rohit_supekar.pdf) for more details.
+At The New York Times, I **lead a team of ML scientists** developing and deploying real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing user-facing messages. I drive **strategy, execution, and alignment** of model development with business outcomes. Our production models serve millions of users and generate tens of millions of dollars in revenue, using **causal ML, contextual bandits and personalization**.
 
-At the Times, I have applied causal inference to observational data using statistical matching techniques. I am also involved in designing and launching Randomized Control Trials (RCTs) to collect data for training causal ML models. During an internship at Amazon in 2020, I built a Double (De-Biased) machine learning model to estimate the causal impact of Advertising products.
+## Industry (Individual Contributor)
 
-My [Ph.D. thesis](https://rohitsupekar.github.io/assets/phd_thesis_rohit_supekar.pdf) at MIT was advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/) in the Applied Mathematics department. My work combined ideas from scientific ML, mathematical modeling of active matter, and numerical computation. I built a computational inference framework to learn continuum models from microscopic data to predict collective phenomena in systems such as bacterial suspensions or self-propelled colloidal particles. I was a recipient of the [Mathworks Engineering Fellowship](https://engineering.mit.edu/2021-mathworks-fellows/page/2/). I also received a Master's degree from MIT for my work on theoretical and experimental modeling of [oceanic internal waves](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf). During my time at MIT, I enjoyed teaching and was a teaching assistant for [Advanced Fluid Mechanics](https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/) (1 semester) and [Dynamics and Controls](https://ocw.mit.edu/courses/2-003j-dynamics-and-control-i-spring-2007/.) (4 semesters).
+Previously as an IC and tech lead at The Times, I developed and deployed **real-time causal ML models** for **multi-objective optimization** of our paywall (see [blog post](https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4)). I have also built large-scale production batch models that determined user-level access to our content (see [blog post](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8), [PyData talk](https://www.youtube.com/watch?v=6CmS96K6-EE), [VentureBeat article](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)). I wrote **statically-typed production code** in [Python](https://typing.readthedocs.io/en/latest/) and [Go](https://go.dev) for high-throughput inference on **cloud-based containerized infrastructure**.
 
-In 2015, I completed my B.Tech in Mechanical Engineering at IIT Madras, India. I worked with [Prof. Mahesh Panchagnula](https://home.iitm.ac.in/mvp/) on [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654) research and spent a year building an omni-directional mobile robot for the [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon) competition to [solve pick-and-place and throw tasks](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving the robot!).
+At the Times, I have also applied **causal inference** to observational data using **statistical matching and sequential trial emulation**, and designed **Randomized Control Trials** for training causal ML models. At Amazon, I built a **Double (De-Biased) ML model** to estimate the causal impact of Advertising products.
+
+## Research (PhD & Masters, MIT)
+
+My [Ph.D. thesis](https://rohitsupekar.github.io/assets/phd_thesis_rohit_supekar.pdf) advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/) (**Applied Mathematics**), combined **scientific ML, numerical computation, and fluid dynamics**. I built a computational inference framework to **learn Partial Differential Equations (PDEs) from microscopic data** of active matter (see [PNAS article](https://www.pnas.org/doi/10.1073/pnas.2206994120)). I also contributed to early demonstrations of **Neural Differential Equations** in learning physical phenomena (see [preprint](https://arxiv.org/abs/2001.04385)).
+I was a recipient of the [**Mathworks Engineering Fellowship**](https://engineering.mit.edu/2021-mathworks-fellows/page/2/).
+
+I also received a Master's degree from MIT for my work on theoretical and experimental modeling of [**the fluid dynamics of internal waves**](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf). My B.Tech in Mechanical Engineering at **IIT Madras** involved [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654) research and building an omni-directional robot for [ABU Robocon](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving!).
 
 Outside of work, I enjoy long-distance running in the summer and skiing in the winter.
+
+See my [CV](https://rohitsupekar.github.io/assets/cv_rohit_supekar.pdf) for more details.
 
 ## Skills
 

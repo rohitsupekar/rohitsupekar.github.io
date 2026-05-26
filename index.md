@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-ML leader with experience building **production ML systems** and **academic research** in applied mathematics and scientific machine learning.
+Applied ML practitioner and technical leader with experience building **production real-time ML systems** and conducting **academic research** in applied mathematics, scientific machine learning, and fluid dynamics.
 
 **Leadership**
 

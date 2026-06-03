@@ -4,19 +4,23 @@ classes: wide
 author_profile: true
 ---
 
-Applied ML practitioner and technical leader with experience building **production real-time ML systems** and conducting **academic research** in applied mathematics, scientific machine learning, and fluid dynamics.
+Applied AI/ML practitioner and technical leader with experience building **production real-time decision systems** and conducting **academic research** in applied mathematics, scientific machine learning, and fluid dynamics. My industry work focuses on adaptive ML systems that make decisions under uncertainty, learn from experimental feedback, and connect model-driven policies to real-world outcomes.
 
 **Leadership**
 
-At The New York Times, I **lead a team of ML scientists** developing and deploying real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing user-facing messages. Our production models serve millions of users and generate tens of millions of dollars in revenue, using **causal ML, contextual bandits and personalization**.
+At The New York Times, I **lead a team of ML scientists** developing and deploying real-time ML models for subscription-related problems, such as serving a paywall at optimal moments or personalizing user-facing messages. Our production models serve millions of users and generate tens of millions of dollars in revenue, using **causal ML, contextual bandits, personalization, and adaptive experimentation**.
 
-**Applied ML**
+**Applied AI/ML systems**
 
-As an IC and tech lead, I developed and deployed **real-time causal ML models** for **multi-objective optimization** of The Times paywall (see [blog post](https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4)). I also built large-scale production batch models that determined user-level access to our content (see [blog post](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8), [PyData talk](https://www.youtube.com/watch?v=6CmS96K6-EE), [VentureBeat article](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)). The production systems were built in [Python](https://typing.readthedocs.io/en/latest/) and [Go](https://go.dev) for high-throughput inference on **cloud-based containerized infrastructure**. I have also worked on **causal inference** using **statistical matching and sequential trial emulation**, and designed **RCTs** for causal ML model training.
+As an IC and tech lead, I developed and deployed **real-time causal ML models** for **multi-objective optimization** of The Times paywall (see [blog post](https://open.nytimes.com/scaling-subscriptions-at-the-new-york-times-with-real-time-causal-machine-learning-5f23a7b24ff4)). I also built large-scale production batch models that determined user-level access (see [blog post](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8), [PyData talk](https://www.youtube.com/watch?v=6CmS96K6-EE), [VentureBeat article](https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/)). These systems were built in Python and Go for high-throughput inference on **cloud-based containerized infrastructure**. For **representation learning**, I have trained **transformer encoder models** using tokenized sequential user activity, generating embeddings for predictive tasks.
+
+I am interested in **causal inference** and have used techniques like **Meta-Learners and Sequential Trial Emulation**, as well as designing RCTs.
 
 **Research**
 
-My [Ph.D. thesis](https://rohitsupekar.github.io/assets/phd_thesis_rohit_supekar.pdf) advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/) (**Applied Mathematics**), combined **scientific ML, numerical computation, and fluid dynamics**. I built a computational inference framework to **learn PDEs from microscopic data** of active matter (see [PNAS article](https://www.pnas.org/doi/10.1073/pnas.2206994120)) and contributed to early demonstrations of **Neural Differential Equations** (see [preprint](https://arxiv.org/abs/2001.04385)). I was a recipient of the [Mathworks Engineering Fellowship](https://engineering.mit.edu/2021-mathworks-fellows/page/2/). Master's at MIT on [the fluid dynamics of internal waves](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf). B.Tech at **IIT Madras** in [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654); also built an omni-directional robot for [ABU Robocon](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving!).
+My [Ph.D. thesis](https://rohitsupekar.github.io/assets/phd_thesis_rohit_supekar.pdf) advised by [Prof. Jörn Dunkel](https://math.mit.edu/~dunkel/) (**Applied Mathematics**), combined **scientific ML, numerical computation, and fluid dynamics**. I built a computational inference framework to **learn PDEs from microscopic simulation and experimental data** of active matter (see [PNAS article](https://www.pnas.org/doi/10.1073/pnas.2206994120)) and contributed to early demonstrations of **Neural Partial Differential Equations** (see [preprint](https://arxiv.org/abs/2001.04385)). My research was partially supported by the [Mathworks Engineering Fellowship](https://engineering.mit.edu/2021-mathworks-fellows/page/2/).
+
+I completed my Master's at MIT on [the fluid dynamics of internal waves](https://rohitsupekar.github.io/assets/sm_thesis_rohit_supekar.pdf) and my B.Tech at **IIT Madras** in [theoretical fluid dynamics](https://arxiv.org/abs/1408.6654). I also built an omni-directional robot for [ABU Robocon](https://www.youtube.com/watch?v=M6jNqmd_Jek) (that's me driving!).
 
 Outside of work, I enjoy long-distance running in the summer and skiing in the winter.
 
@@ -24,8 +28,8 @@ See my [CV](https://rohitsupekar.github.io/assets/cv_rohit_supekar.pdf) for more
 
 ## Skills
 
-#### Machine Learning
-Supervised and unsupervised machine learning, Contextual bandits, Bayesian methods (Thompson Sampling), Causal Inference, Causal Machine Learning, Neural Differential Equations, Scientific Machine Learning
+#### ML / AI
+ Representation Learning, Transformer encoder models, Scientific Machine Learning, Contextual bandits, Bayesian methods (Thompson Sampling, Bayesian Optimization),  Causal Inference, Causal Machine Learning, Neural Differential Equations
 
 #### Mathematical Modeling
 Differential Equations, (Fluid) Dynamical Systems, Optimization, Linear Algebra, Numerical Methods for PDEs
